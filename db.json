@@ -34,26 +34,7 @@
       "id": 7,
       "temp": 50,
       "humidity": 23
-    },
-    {
-      "id": 8,
-      "temp": 29,
-      "humidity": 32
-    },
-    {
-      "id": 9,
-      "temp": 100,
-      "humidity": 56
-    },
- {
-      "id": 10,
-      "temp": 100,
-      "humidity": 56
-    },
-    {
-      "id": 11,
-      "temp": 150,
-      "humidity": 36
     }
+   
   ]
 }
