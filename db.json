@@ -44,7 +44,11 @@
       "id": 9,
       "temp": 100,
       "humidity": 56
+    },
+ {
+      "id": 9,
+      "temp": 100,
+      "humidity": 56
     }
- 
   ]
 }
