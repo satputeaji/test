@@ -50,5 +50,10 @@
       "temp": 100,
       "humidity": 56
     }
+    {
+      "id": 11,
+      "temp": 150,
+      "humidity": 36
+    }
   ]
 }
