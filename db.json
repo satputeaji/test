@@ -3,42 +3,50 @@
     {
       "id": 1,
       "temp": 30,
-      "humidity": 15
+      "humidity": 15,
+      "date": "2018-11-12 03:02:48"
     },
        {
       "id": 2,
       "temp": 40,
-      "humidity": 15
+      "humidity": 15,
+      "date": "2018-11-12 03:02:48"   
     },
     {
       "id": 3,
       "temp": 32,
-      "humidity": 15
+      "humidity": 15,
+      "date": "2018-11-12 03:02:48"
     },
     {
       "id": 4,
       "temp": 34,
-      "humidity": 15
+      "humidity": 15,
+      "date": "2018-11-12 03:02:48"
     },
     {
       "id": 5,
       "temp": 38,
-      "humidity": 15
+      "humidity": 15,
+      "date": "2018-11-12 03:02:48"
     },
        {
       "id": 6,
       "temp": 40,
-      "humidity": 34
+      "humidity": 34,
+      "date": "2018-11-12 03:02:48"   
     },
     {
       "id": 7,
       "temp": 50,
-      "humidity": 23
+      "humidity": 23,
+      "date": "2018-11-12 03:02:48" 
     },
     {
       "id": 8,
       "temp": 150,
-      "humidity": 23
+      "humidity": 23,
+      "date": "2018-11-12 03:02:48" 
     }
    
   ]
